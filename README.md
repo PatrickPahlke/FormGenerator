@@ -9,7 +9,7 @@ This is a simple form generator jQuery plugin. It consists of three parts:
 
 It work's with **Insert tags** like `{{name}}`:
 | Name             | Tag             | Description       |
-| ---------------- | :-------------: | ----------------- |
+| ---------------- | :-------------: | ----------------: |
 | tag              | {{tag}}         |                   |
 | content          | {{content}}     |                   |
 | name             | {{name}}        |                   |
