@@ -8,24 +8,25 @@ This is a simple form generator jQuery plugin. It consists of three parts:
 * A HTML templates
 
 It work's with **Insert tags** like `{{name}}`:
-| Name             | Tag             | Description       |
-| ---------------- | :-------------: | ----------------: |
-| tag              | {{tag}}         |                   |
-| content          | {{content}}     |                   |
-| name             | {{name}}        |                   |
-| label            | {{label}}       |                   |
-| type             | {{type}}        |                   |
-| placeholder      | {{placeholder}} |                   |
-| value            | {{value}}       |                   |
-| min              | {{min     }}    |                   |
-| max              | {{max     }}    |                   |
-| step             | {{step    }}    |                   |
-| pattern          | {{pattern}}     |                   |
-| description      | {{description}} |                   |
-| id               | {{id}}          |                   |
-| classes          | {{classes}}     |                   |
-| required         | {{required}}    |                   |
-| tabindex         | {{tabindex}}    |                   |
+
+| Name             | Tag               | Description       |
+| ---------------- | ---------------   | ----------------- |
+| tag              | {{tag}}           |                   |
+| content          | {{content}}       |                   |
+| name             | {{name}}          |                   |
+| label            | {{label}}         |                   |
+| type             | {{type}}          |                   |
+| placeholder      | {{placeholder}}   |                   |
+| value            | {{value}}         |                   |
+| min              | {{min     }}      |                   |
+| max              | {{max     }}      |                   |
+| step             | {{step    }}      |                   |
+| pattern          | {{pattern}}       |                   |
+| description      | {{description}}   |                   |
+| id               | {{id}}            |                   |
+| classes          | {{classes}}       |                   |
+| required         | {{required}}      |                   |
+| tabindex         | {{tabindex}}      |                   |
 
 ## Usage
 ### Step 1:
